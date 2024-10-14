@@ -10,22 +10,22 @@
       "SESSION_ID": {
       "description": "Paste here session id that you have scanned",
       "required": true,
-      "value": ""
+      "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0FKclFZc05OQlc1K0I0K1hUMDJWV3h1cFBWaktIWlFDa1AzQXZUTjBGbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNUhXcTRiQmt3VzFNeTkySWpNY0s0cEs3dlpiMDREQStLdi9WZWZYazFuMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIrQ0ZLbUpkbmtGQ01ZSEprOXB5d0RjOUZSbXF0UVdxeHllZnREWHZKQ1dvPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJGQVl3NEtLUklKMWIvVWtTZzhvSWZJdS81TitxTWlOVnVieWZzYkwwTUNFPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVCWnkreS9MSUdEWjl5YmI5aktFNTRzbWk4NHVKSVlyTEtKQVZCNmxVRXc9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlRIc0VsZXZ4OUVTbXMrSDNTREl4RE9SSkZITTNyUlpLY2JkYmNtdlBTVHM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOERvM2dRd3I3UVNPSW9GTFJqVFZmb1R1MHJLTit1TFpieXhBQzBoSzRFcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS1g4Um5KbFFwRzZzWnR6ZjA2L1BVN1Z6YnFURmlqcHlzTitlcUZHWnIyST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImttNHBsUnBnekFmK25IQzRBWWkxbzZTbVY0NkxYc2wwREFnVGwwcGh2UzU1NUExT0xyVmluTmljZjQzRFJlaUJTUm50MU9EZ3lJbC9ZR1ZUYjRwemd3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTA5LCJhZHZTZWNyZXRLZXkiOiI3ZHFIcVk4Q3ZmdjZSOUxVUDZHSjI4NWJKMnllNXliK2NuMFg5ak9ObUFzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJHN0NGdEphOVFLR2pCbHBLNk9FTEhBIiwicGhvbmVJZCI6IjQ1N2M1YmViLTVmYzItNDZiNy1iNzdlLWFhMTExOGEyOTFiMiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNdmo0Z1J2aFNzMVFkeWVJWkcvTE1JNzJzWnc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNWdHNkVrd01GUVlmOTNFNlN1VlZTNXVKMUtVPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkNQUTlZSzI3IiwibWUiOnsiaWQiOiIyMzMyMDc0MTU0Njk6NDJAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0tDUzBlVU5FTzJidExnR0dCY2dBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjNRS1B6OEFZRkZHUGtWWXVLamJpTC9vd0Y2TzJ3Uy9yY1hIVHZteFZ5ekk9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImlZUitoTktTNjdHaVBJODZKcjRoVzdjU0NLQ1dJWmRBaEZ4QTkzZzhaaVd1cUdZZmFuaW9XUGV5WDc1STMyL1JsOExHeUdtQUVPbWdyenRrNmExQkJ3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiI3S0w2dTFqdmRrbkhVV3UvcVRHQlk1eVBESkxMSGphMldISVRFWjQ3UVB2VloyaFpiZEVvSTFTNXZBWGh6eWN0SWFEOVNnc2k3b1hXdVpuUHM4RlVqQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzMzIwNzQxNTQ2OTo0MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJkMENqOC9BR0JSUmo1RldMaW8yNGkvNk1CZWp0c0V2NjNGeDA3NXNWY3N5In19XSwicGxhdGZvcm0iOiJpcGhvbmUiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3Mjg5MDg3OTQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTGxnIn0="
     },
     "MODE": {
       "description": "Enter true for public. false for private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. false for no",
       "required": false,
-      "value": ""
+      "value": "yes"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
@@ -40,7 +40,7 @@
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
       "required": false,
-      "value": ""
+      "value": "yes"
     },
     "AUTO_BLOCK": {
       "description": "make it true if you want bot to auto block only 212 numbers",
